@@ -1,1 +1,3 @@
-Hello! I am reditnumber4, a terrible coder (learning)
+Hello! I am reditnumber4
+Not much for now, check later!
+
